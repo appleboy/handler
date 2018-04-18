@@ -11,8 +11,8 @@ import (
 	"testing"
 
 	"context"
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/testutil"
+	"github.com/appleboy/graphql"
+	"github.com/appleboy/graphql/testutil"
 	"github.com/graphql-go/handler"
 )
 
